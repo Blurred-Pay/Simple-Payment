@@ -42,10 +42,10 @@ npm run build
 
 | # | Screenshot | Description |
 |---|---|---|
-| 1 | *Add screenshot* | Wallet connected state |
-| 2 | *Add screenshot* | Balance displayed |
-| 3 | *Add screenshot* | Successful testnet transaction |
-| 4 | *Add screenshot* | Transaction result shown to the user |
+| 1 | ![Wallet connected](public/screenshot-1-wallet-connected.png) | Wallet connected state |
+| 2 | ![Balance displayed](public/screenshot-2-balance.png) | Balance displayed |
+| 3 | ![Successful transaction](public/screenshot-3-transaction.png) | Successful testnet transaction |
+| 4 | ![Transaction result](public/screenshot-3-transaction.png) | Transaction result shown to the user |
 
 ## Project Structure
 
