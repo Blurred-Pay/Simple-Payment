@@ -40,11 +40,12 @@ npm run build
 
 ## Screenshots
 
-*Add screenshots here:*
-
-1. **Wallet connected** – show the connected wallet address
-2. **Balance displayed** – show XLM balance on the dashboard
-3. **Successful testnet transaction** – show the transaction hash with success message
+| # | Screenshot | Description |
+|---|---|---|
+| 1 | *Add screenshot* | Wallet connected state |
+| 2 | *Add screenshot* | Balance displayed |
+| 3 | *Add screenshot* | Successful testnet transaction |
+| 4 | *Add screenshot* | Transaction result shown to the user |
 
 ## Project Structure
 
